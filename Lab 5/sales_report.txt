@@ -1,0 +1,6 @@
+--- Sales Report ---
+Days recorded : 2
+Total sales   : $130.00
+Average/day   : $65.00
+Lowest day    : $30.00
+Highest day   : $100.00
